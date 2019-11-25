@@ -10,6 +10,7 @@ Looking to self-host?
 Create a Heroku account if you haven't, then grab the RequestBin source using git:
 
 old: `$ git clone git://github.com/mxcxvn/requestbin.net.git`
+
 new: `$ https://github.com/DanielRamp/requestbin.net.git`
 
 From the project directory, create a Heroku application:
